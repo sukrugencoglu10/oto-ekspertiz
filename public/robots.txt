@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /lp/
+
+# Host
+Host: https://www.example.com
+
+# Sitemaps
+Sitemap: https://www.example.com/sitemap.xml

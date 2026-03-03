@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://www.example.com/gizlilik</loc><lastmod>2026-03-03T11:18:46.194Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/blog/arac-alirken-dikkat-edilmesi-gerekenler</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/blog/oto-ekspertiz-nedir</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/blog/tramer-kaydi-sorgulama-nasil-yapilir</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/iletisim</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/hizmetler</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/kurumsal</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/kvkk</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/sss</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/referanslar</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/paketler</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/blog</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/hizmetler/boya-kaporta-tespiti</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/hizmetler/motor-diagnostik</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/hizmetler/oto-ekspertiz</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.example.com/hizmetler/tramer-sorgulama</loc><lastmod>2026-03-03T11:18:46.195Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
